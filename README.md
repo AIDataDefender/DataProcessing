@@ -1,4 +1,5 @@
 # README
+![Pipeline](pipeline.png "Pipeline")
 ## Dir tree
 ```
 .
