@@ -1,4 +1,4 @@
-# README
+# Graph building phase
 ![Pipeline](pipeline.png "Pipeline")
 ## Dir tree
 ```
